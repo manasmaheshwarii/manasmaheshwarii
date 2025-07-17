@@ -14,9 +14,11 @@
 
 - 🌱 I’m proficient in FullStack Web Development and learning about LLMs!
 
-- 📫 How to reach me **manasmaheshwaricode@gmail.com**
+- 📫 Reach Me Here - **manasmaheshwaricode@gmail.com**
   
-- 🖥️ Portfolio **https://manasmaheshwari.vercel.app**
+- 🖥️ Portfolio - **https://manasmaheshwari.vercel.app**
+
+- 👨‍💻 Open to Work and Collaborate. Lets create impact together!
 
 - ⚡ Fun fact :- I forget about hours in a day when I'm creating a project.💪
 
