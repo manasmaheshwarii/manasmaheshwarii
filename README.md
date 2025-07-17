@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manas Maheshwari</h1>
+<h1 align="center">Hi 👋, I'm Manas Maheshwari!</h1>
 <h3 align="center">Passionate about solving real world problems through code and coffee☕</h3> 
 
 <br>
