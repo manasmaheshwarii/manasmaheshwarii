@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m proficient in FullStack Web Development and learning about LLMs!
+- 🌱 I’m a proficient FullStack Web Developer with experience building modern, scalable applications. Currently, I’m expanding my skills by learning about Large Language Models (LLMs) and how they can enhance intelligent applications.
 
 - 📫 Reach Me Here - **manasmaheshwaricode@gmail.com**
   
